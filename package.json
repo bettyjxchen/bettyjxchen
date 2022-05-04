@@ -12,7 +12,7 @@
     ],
     "dependencies": {
         "@sendgrid/mail": "^6.3.1",
-        "angular": "^1.7.8",
+        "angular": "^1.8.3",
         "angular-bootstrap-toggle": "^0.1.2",
         "angular-cookies": "^1.7.7",
         "bcrypt-nodejs": "0.0.3",
