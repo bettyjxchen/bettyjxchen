@@ -25,7 +25,7 @@
         "express": "^4.16.4",
         "express-validator": "^3.1.2",
         "graceful-fs": "^4.2.3",
-        "gulp": "^3.8.11",
+        "gulp": "^4.0.2",
         "gulp-update": "0.0.2",
         "gulp-util": "^3.0.8",
         "joi": "^11.4.0",
